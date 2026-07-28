@@ -6,7 +6,7 @@ An ESP32-based 4-channel smart home automation system powered by **Espressif Rai
 
 ## 📸 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.jpeg)
 
 ---
 
